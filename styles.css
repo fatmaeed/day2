@@ -1,5 +1,5 @@
 h1,p{
-    color: rgb(92, 92, 155);
+    color: rgb(17, 17, 18);
     font-size: 40px;
     text-align: center;
 }
@@ -27,4 +27,15 @@ li{
 li a:hover{
 
     color: rgb(153, 148, 148);
+}
+html{
+    font-family: Arial, sans-serif;
+    background-color: #a19e9e;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
 }
